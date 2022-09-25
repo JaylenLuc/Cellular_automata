@@ -1,2 +1,2 @@
 # Cellular_automata
-Cellular automata experimentation
+My first effort at cellular automata. Experimenting with emergence, computational irreducibility.
